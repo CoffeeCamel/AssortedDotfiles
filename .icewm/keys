@@ -1,0 +1,1 @@
+key "Alt+s" maim "home/aidan/Images/Screenshots/$(date +%s).png"
